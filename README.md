@@ -1,7 +1,7 @@
-## Hi,👋 I'm TETIANA. 
-#I'm Frontend Developer.
+# Hi,👋 I'm TETIANA. 
+## I'm Frontend Developer.
 
-##Languages and Tools:
+## Languages and Tools:
 ![image](https://github.com/user-attachments/assets/3d28d1d8-bb58-47c5-8a73-592b22bdf901)
 ![image](https://github.com/user-attachments/assets/6c5c4e46-d726-435d-9585-1a1e8d9bb72b)
 ![image](https://github.com/user-attachments/assets/d973e2b2-9676-437d-a42d-b4886e78d6cf)
